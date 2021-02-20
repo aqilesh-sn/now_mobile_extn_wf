@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_condition_m2m_filter_condition_attribute">
+    <sys_sg_filter_condition_m2m_filter_condition_attribute action="DELETE">
+        <filter_condition display_value="Interactions Keyword filter condition">a5f9f87b2fd22010851b351ef699b6ef</filter_condition>
+        <filter_condition_attribute/>
+        <sys_class_name>sys_sg_filter_condition_m2m_filter_condition_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 19:32:29</sys_created_on>
+        <sys_id>edf9f87b2fd22010851b351ef699b6f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_filter_condition_m2m_filter_condition_attribute_edf9f87b2fd22010851b351ef699b6f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 19:32:29</sys_updated_on>
+    </sys_sg_filter_condition_m2m_filter_condition_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</application>
+        <file_path/>
+        <instance_id>5b95f3a0db077b000ae3ac44d496197d</instance_id>
+        <instance_name>dev90115</instance_name>
+        <name>sys_sg_filter_condition_m2m_filter_condition_attribute_edf9f87b2fd22010851b351ef699b6f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_condition_m2m_filter_condition_attribute"><sys_sg_filter_condition_m2m_filter_condition_attribute action="INSERT_OR_UPDATE"><filter_condition display_value="Interactions Keyword filter condition">a5f9f87b2fd22010851b351ef699b6ef</filter_condition><filter_condition_attribute/><sys_class_name>sys_sg_filter_condition_m2m_filter_condition_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-19 19:32:29</sys_created_on><sys_id>edf9f87b2fd22010851b351ef699b6f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package><sys_policy/><sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope><sys_update_name>sys_sg_filter_condition_m2m_filter_condition_attribute_edf9f87b2fd22010851b351ef699b6f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-19 19:32:29</sys_updated_on></sys_sg_filter_condition_m2m_filter_condition_attribute></record_update>]]></payload>
+        <payload_hash>-1081490354</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>71a8303b2fd22010851b351ef699b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 19:32:34</sys_created_on>
+        <sys_id>32f93c7b2fd22010851b351ef699b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177bbc791d30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 19:32:34</sys_updated_on>
+        <type>Filter Condition M2M Filter Condition At</type>
+        <update_guid>adf9f87b93d220102ca0b8655bd27df3</update_guid>
+        <update_guid_history>adf9f87b93d220102ca0b8655bd27df3:732020203,adf9f87b93d220102ca0b8655bd27df3:732020203</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 19:32:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_filter_condition_m2m_filter_condition_attribute">sys_sg_filter_condition_m2m_filter_condition_attribute</sys_db_object>
+        <sys_id>12075e93a5d84afcac993eea203aaa10</sys_id>
+        <sys_metadata>edf9f87b2fd22010851b351ef699b6f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_scope_delete display_value="">52ba77e8e9104f50aa4d23e1db003290</sys_scope_delete>
+        <sys_update_name>sys_sg_filter_condition_m2m_filter_condition_attribute_edf9f87b2fd22010851b351ef699b6f1</sys_update_name>
+        <sys_update_version display_value="sys_sg_filter_condition_m2m_filter_condition_attribute_edf9f87b2fd22010851b351ef699b6f1">32f93c7b2fd22010851b351ef699b678</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 19:32:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="DELETE">
+        <applet_launcher display_value="Homepage 2">5e3009bf2fd22010851b351ef699b6f5</applet_launcher>
+        <order>100</order>
+        <quick_action_button display_value="Chat">81e9d8247320330018eea18d4ef6a74e</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 21:31:44</sys_created_on>
+        <sys_id>a3949dff2f162010851b351ef699b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_a3949dff2f162010851b351ef699b63d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 21:31:44</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</application>
+        <file_path/>
+        <instance_id>5b95f3a0db077b000ae3ac44d496197d</instance_id>
+        <instance_name>dev90115</instance_name>
+        <name>sys_sg_alp_quick_action_map_a3949dff2f162010851b351ef699b63d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map"><sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE"><applet_launcher display_value="Homepage 2">5e3009bf2fd22010851b351ef699b6f5</applet_launcher><order>100</order><quick_action_button display_value="Chat">81e9d8247320330018eea18d4ef6a74e</quick_action_button><sys_class_name>sys_sg_alp_quick_action_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-19 21:31:44</sys_created_on><sys_id>a3949dff2f162010851b351ef699b63d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package><sys_policy/><sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope><sys_update_name>sys_sg_alp_quick_action_map_a3949dff2f162010851b351ef699b63d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-19 21:31:44</sys_updated_on></sys_sg_alp_quick_action_map></record_update>]]></payload>
+        <payload_hash>504762515</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>71a8303b2fd22010851b351ef699b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 21:31:44</sys_created_on>
+        <sys_id>64455d332f562010851b351ef699b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177bc34ad7c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 21:31:44</sys_updated_on>
+        <type>Quick Actions Menu Map</type>
+        <update_guid>ac455d3303562010331eda88048968cf</update_guid>
+        <update_guid_history>ac455d3303562010331eda88048968cf:504762515</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 21:55:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_alp_quick_action_map">sys_sg_alp_quick_action_map</sys_db_object>
+        <sys_id>046c182182cd470d80a52264efb557e9</sys_id>
+        <sys_metadata>a3949dff2f162010851b351ef699b63d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_scope_delete display_value="">52ba77e8e9104f50aa4d23e1db003290</sys_scope_delete>
+        <sys_update_name>sys_sg_alp_quick_action_map_a3949dff2f162010851b351ef699b63d</sys_update_name>
+        <sys_update_version display_value="sys_sg_alp_quick_action_map_a3949dff2f162010851b351ef699b63d">64455d332f562010851b351ef699b6d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 21:55:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

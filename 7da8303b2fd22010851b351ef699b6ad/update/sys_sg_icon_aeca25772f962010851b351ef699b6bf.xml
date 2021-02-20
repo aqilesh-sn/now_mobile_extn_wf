@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>My Interactions Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 23:05:49</sys_created_on>
+        <sys_id>aeca25772f962010851b351ef699b6bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Interactions Icon</sys_name>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_icon_aeca25772f962010851b351ef699b6bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 23:05:49</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

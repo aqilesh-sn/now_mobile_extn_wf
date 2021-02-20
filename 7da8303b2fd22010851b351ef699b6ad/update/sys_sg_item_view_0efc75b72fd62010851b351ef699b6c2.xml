@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>number-22123,short_description-45539,sys_view_count-13144,kb_knowledge_base-32753</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E1","Id":22123,"Margin":{},"CellId":"number","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18}},{"Type":"ViewGroup","Margin":{"Top":8},"Id":12260,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Id":45538,"Type":"Text","studio_ignore":true,"Margin":{"Left":0},"TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":10,"Name":"Font Awesome 5 Pro Regular"}},{"Type":"Text","studio_template_field_id":"E2","Margin":{"Left":4},"CellId":"short_description","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"Id":45539}]},{"Type":"ViewGroup","Id":12261,"Margin":{"Top":17},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Image","studio_template_field_id":"E3","CornerRadius":12,"Height":24,"Width":24,"CellId":"sys_view_count","Scaling":"Fill","Id":13144},{"Type":"Text","studio_template_field_id":"E4","Margin":{"Left":8},"TextColor":"#333e3f","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":13},"Id":32753,"CellId":"kb_knowledge_base"}]}],"Id":28090,"studio_card_id":"80df9beb0f333300c46f5cbac4767e59"}</item_view_json>
+        <name>IT Knowledge Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-20 00:25:15</sys_created_on>
+        <sys_id>0efc75b72fd62010851b351ef699b6c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Knowledge Item View</sys_name>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_item_view_0efc75b72fd62010851b351ef699b6c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-20 00:25:15</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=0efc75b72fd62010851b351ef699b6c2"/>
+</record_update>
