@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My Interactions Icon">aeca25772f962010851b351ef699b6bf</icon>
+        <item_view display_value="My Interactions Header Item View">b2ca25772f962010851b351ef699b6c2</item_view>
+        <name>My Interactions</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 23:05:49</sys_created_on>
+        <sys_id>feca25772f962010851b351ef699b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Interactions</sys_name>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_form_screen_feca25772f962010851b351ef699b6d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 23:05:49</sys_updated_on>
+        <table>interaction</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="DELETE" query="documentkey=feca25772f962010851b351ef699b6d0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</application>
+        <file_path/>
+        <instance_id>5b95f3a0db077b000ae3ac44d496197d</instance_id>
+        <instance_name>dev90115</instance_name>
+        <name>sys_sg_form_screen_feca25772f962010851b351ef699b6d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><data_item/><description/><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="My Interactions Icon">aeca25772f962010851b351ef699b6bf</icon><item_view display_value="My Interactions Header Item View">b2ca25772f962010851b351ef699b6c2</item_view><name>My Interactions</name><roles_override/><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-19 23:05:49</sys_created_on><sys_id>feca25772f962010851b351ef699b6d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Interactions</sys_name><sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package><sys_policy/><sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope><sys_update_name>sys_sg_form_screen_feca25772f962010851b351ef699b6d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-19 23:05:49</sys_updated_on><table>interaction</table></sys_sg_form_screen><sys_translated_text action="delete_multiple" query="documentkey=feca25772f962010851b351ef699b6d0"/></record_update>]]></payload>
+        <payload_hash>1219058291</payload_hash>
+        <record_name>My Interactions</record_name>
+        <reverted_from/>
+        <source>71a8303b2fd22010851b351ef699b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 23:05:50</sys_created_on>
+        <sys_id>36ca25772f962010851b351ef699b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177bc8ad0ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 23:05:50</sys_updated_on>
+        <type>Form Screen</type>
+        <update_guid>7eca2577349620105cfb379b7a6932d2</update_guid>
+        <update_guid_history>7eca2577349620105cfb379b7a6932d2:1219058291</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 23:06:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>7670892d60d64912a85cd5d4d174de29</sys_id>
+        <sys_metadata>feca25772f962010851b351ef699b6d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Interactions</sys_name>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_scope_delete display_value="">52ba77e8e9104f50aa4d23e1db003290</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_feca25772f962010851b351ef699b6d0</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_feca25772f962010851b351ef699b6d0">36ca25772f962010851b351ef699b6d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 23:06:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

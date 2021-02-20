@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section">
+    <sys_sg_navigation_section action="DELETE">
+        <active>true</active>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>true</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_navigation_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 23:46:06</sys_created_on>
+        <sys_id>2de33d7f2f962010851b351ef699b687</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test Nav Section</sys_name>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_2de33d7f2f962010851b351ef699b687</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 23:48:16</sys_updated_on>
+        <table/>
+        <title>Test Nav Section</title>
+        <visible_condition/>
+    </sys_sg_navigation_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</application>
+        <file_path/>
+        <instance_id>5b95f3a0db077b000ae3ac44d496197d</instance_id>
+        <instance_name>dev90115</instance_name>
+        <name>sys_sg_navigation_section_2de33d7f2f962010851b351ef699b687</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section"><sys_sg_navigation_section action="INSERT_OR_UPDATE"><active>true</active><data_item/><display_feed_count>true</display_feed_count><hide_header>true</hide_header><hide_section_if_empty>false</hide_section_if_empty><orientation>vertical</orientation><required_roles/><sys_class_name>sys_sg_navigation_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-19 23:46:06</sys_created_on><sys_id>2de33d7f2f962010851b351ef699b687</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Test Nav Section</sys_name><sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package><sys_policy/><sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope><sys_update_name>sys_sg_navigation_section_2de33d7f2f962010851b351ef699b687</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-19 23:48:16</sys_updated_on><table/><title>Test Nav Section</title><visible_condition/></sys_sg_navigation_section></record_update>]]></payload>
+        <payload_hash>1014839520</payload_hash>
+        <record_name>Test Nav Section</record_name>
+        <reverted_from/>
+        <source>71a8303b2fd22010851b351ef699b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 23:48:16</sys_created_on>
+        <sys_id>d48479bf2f962010851b351ef699b657</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177bcb1ac300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 23:48:16</sys_updated_on>
+        <type>Navigation Section</type>
+        <update_guid>508479bfd3962010a719a29bc2531d57</update_guid>
+        <update_guid_history>508479bfd3962010a719a29bc2531d57:1014839520,ac04bd7fc496201019d05d53f7a5f720:-93016073</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-20 00:01:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_section">sys_sg_navigation_section</sys_db_object>
+        <sys_id>166abb8d4a814d6495cd9ec7e96a6f11</sys_id>
+        <sys_metadata>2de33d7f2f962010851b351ef699b687</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Nav Section</sys_name>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_scope_delete display_value="">52ba77e8e9104f50aa4d23e1db003290</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_section_2de33d7f2f962010851b351ef699b687</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_section_2de33d7f2f962010851b351ef699b687">d48479bf2f962010851b351ef699b657</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-20 00:01:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_screen">
+    <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
+        <applet display_value="IT Knowledge Categories">9e3aa2009fe3230088aebde8132e7072</applet>
+        <icon display_value="Bag">081d8da2b72200108223e126de11a9c9</icon>
+        <name>IT Knowledge</name>
+        <sys_class_name>sys_sg_navigation_section_destination_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-20 00:49:37</sys_created_on>
+        <sys_id>9e72cafb2fd62010851b351ef699b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Knowledge</sys_name>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_screen_9e72cafb2fd62010851b351ef699b65c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-20 00:49:37</sys_updated_on>
+    </sys_sg_navigation_section_destination_screen>
+</record_update>
