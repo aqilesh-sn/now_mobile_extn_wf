@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Homepage">5e3009bf2fd22010851b351ef699b6f5</applet_launcher>
+        <order>0</order>
+        <section display_value="Homepage Banner">5b3cedc92f262010851b351ef699b6e3</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 20:25:12</sys_created_on>
+        <sys_id>053ce9c92f262010851b351ef699b65a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_053ce9c92f262010851b351ef699b65a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 20:25:28</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</application>
+        <file_path/>
+        <instance_id>5b95f3a0db077b000ae3ac44d496197d</instance_id>
+        <instance_name>dev90115</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_053ce9c92f262010851b351ef699b65a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Homepage">5e3009bf2fd22010851b351ef699b6f5</applet_launcher><order>0</order><section display_value="Homepage Banner">5b3cedc92f262010851b351ef699b6e3</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-23 20:25:12</sys_created_on><sys_id>053ce9c92f262010851b351ef699b65a</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package><sys_policy/><sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_053ce9c92f262010851b351ef699b65a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-23 20:25:28</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>1228720445</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>422b4ef32f1a2010851b351ef699b689</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 20:25:28</sys_created_on>
+        <sys_id>fc7ce10d2f262010851b351ef699b62a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177d091729f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 20:25:28</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>f47ce1094e262010fdabbfb0c8e792dc</update_guid>
+        <update_guid_history>f47ce1094e262010fdabbfb0c8e792dc:1228720445,746ca10df22620104f9c7a8d28487233:379901938</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 20:54:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>00db13dfc4fe49e8800e12baafe32d10</sys_id>
+        <sys_metadata>053ce9c92f262010851b351ef699b65a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_scope_delete display_value="">52ba77e8e9104f50aa4d23e1db003290</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_053ce9c92f262010851b351ef699b65a</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_053ce9c92f262010851b351ef699b65a">fc7ce10d2f262010851b351ef699b62a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 20:54:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

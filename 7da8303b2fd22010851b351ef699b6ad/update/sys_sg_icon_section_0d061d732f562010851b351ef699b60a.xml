@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
     <sys_sg_icon_section action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applets>e1c659b32f562010851b351ef699b609,b05365bf2f562010851b351ef699b621,a731e13f2f562010851b351ef699b661</applets>
+        <applets>e1c659b32f562010851b351ef699b609,83d561332f962010851b351ef699b662,b05365bf2f562010851b351ef699b621,a731e13f2f562010851b351ef699b661</applets>
         <data_item/>
         <display_feed_count>false</display_feed_count>
-        <hide_header>true</hide_header>
+        <hide_header>false</hide_header>
         <hide_section_if_empty>false</hide_section_if_empty>
         <orientation>horizontal</orientation>
         <required_roles/>
@@ -12,14 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-19 21:35:03</sys_created_on>
         <sys_id>0d061d732f562010851b351ef699b60a</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Ribbon</sys_name>
         <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
         <sys_policy/>
         <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
         <sys_update_name>sys_sg_icon_section_0d061d732f562010851b351ef699b60a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-19 23:41:24</sys_updated_on>
+        <sys_updated_on>2021-02-22 15:46:45</sys_updated_on>
         <table/>
         <title>Ribbon</title>
         <visible_condition/>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <field/>
+        <item_vew display_value="Announcements Item View">2331e13f2f562010851b351ef699b65f</item_vew>
+        <item_view_element>28090</item_view_element>
+        <name>Announcement Information Style Item View</name>
+        <style>{"background_color":"#ffffff","font_color":"#9A89D9"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 17:27:38</sys_created_on>
+        <sys_id>d4830d092fa22010851b351ef699b635</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Announcement Information Style Item View</sys_name>
+        <sys_package display_value="Now Extension" source="x_170565_now_extn">7da8303b2fd22010851b351ef699b6ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Extension">7da8303b2fd22010851b351ef699b6ad</sys_scope>
+        <sys_update_name>sys_sg_ui_style_d4830d092fa22010851b351ef699b635</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 17:27:38</sys_updated_on>
+        <table>announcement</table>
+        <use_item_view_elements>true</use_item_view_elements>
+    </sys_sg_ui_style>
+</record_update>
